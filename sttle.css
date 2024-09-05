@@ -2,6 +2,13 @@
 body{
     text-align: center;
     margin: auto;
-}.issovaipmeio {
+
+}
+
+.issovaipmeio {
     text-align: center;
+}
+
+.esquerda{
+    text-align: left;
 }
